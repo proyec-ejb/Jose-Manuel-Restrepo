@@ -1,0 +1,28 @@
+{
+  "preguntas": [
+    {
+      "id": 2,
+      "pregunta": "¿En que horario esta disponible la atención?",
+      "respuesta": "De 8am a 12pm"
+    },
+    {
+      "id": 3,
+      "pregunta": "¿Cúal es el tiempo promedio en el que se da respuesta a mi solicitud?",
+      "respuesta": "..."
+    },
+    {
+      "id": 4,
+      "pregunta": "¿En donde puedo descargar los soportes?",
+      "respuesta": "..."
+    },
+    {
+      "id": 6,
+      "pregunta": "Como se llama el colrgio?"
+    },
+    {
+      "id": 7,
+      "pregunta": "¿Cómo se llama el  colegio?",
+      "respuesta": "Jose Manual Restrepo"
+    }
+  ]
+}
